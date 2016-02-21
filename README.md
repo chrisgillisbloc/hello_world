@@ -1,2 +1,6 @@
 # hello_world
-Just another repository 
+
+
+Hello Humans
+
+Chris here - I'm a UI/UX designer
